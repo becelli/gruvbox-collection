@@ -1,7 +1,7 @@
 # Gruvbox Collection
 A collection of tools and repositories who can style Gruvbox.
 
-## Why this repository exists?
+## Why does this repository exists?
 Inspired by my ex-favourite theme [website](https://draculatheme.com/), this repo aims to summarize a list of applications who can be stylized with the Gruvbox pallete.
 
 
